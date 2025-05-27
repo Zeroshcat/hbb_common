@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.h5ma.cn"];
-pub const RS_PUB_KEY: &str = "c52cbe882f593cad";
+pub const RS_PUB_KEY: &str = "jsqPP5N3MI8b+8II+8iDMbOpcmwe9JoJy/+CrGBWEaU=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
